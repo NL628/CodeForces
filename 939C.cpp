@@ -1,7 +1,7 @@
 // COMPETITION: Codeforces
 // URL: bit.ly/2QdBnlE
 // DATE: Nov 23, 2018
-// STATUS: Unfinished
+// STATUS: Finished
 
 #include<bits/stdc++.h>
 using namespace std;
